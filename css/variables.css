@@ -1,5 +1,5 @@
 :root {
- 
+  /* Paleta de cores */
   --color-primary: #ff6f61;       /* cor principal */
   --color-secondary: #4caf50;     /* cor secundária */
   --color-accent: #ffc107;        /* destaque */
@@ -9,14 +9,14 @@
   --color-neutral-400: #757575;
   --color-neutral-500: #424242;
 
- 
+  /* Tipografia */
   --font-size-xs: 12px;
   --font-size-sm: 14px;
   --font-size-md: 16px;
   --font-size-lg: 20px;
   --font-size-xl: 32px;
 
-  
+  /* Espaçamento modular */
   --spacing-1: 8px;
   --spacing-2: 16px;
   --spacing-3: 24px;
